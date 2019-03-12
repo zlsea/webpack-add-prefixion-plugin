@@ -1,0 +1,24 @@
+{
+  "name": "webpack-add-prefixion-plugin",
+  "version": "1.0.0",
+  "description": "为webpack打包的html文件添加静态资源路径 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlsea/webpack-add-prefixion-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "html",
+    "plugins"
+  ],
+  "author": "sea_zl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlsea/webpack-add-prefixion-plugin/issues"
+  },
+  "homepage": "https://github.com/zlsea/webpack-add-prefixion-plugin#readme"
+}
